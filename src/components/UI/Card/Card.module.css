@@ -1,0 +1,22 @@
+.ctn{
+    border-radius: 10px;
+    background-color: #A86F8C;
+    height: 175px;
+    width:fit-content;
+    margin: 5px;
+    padding: 5px;
+}
+.question{
+    height: 45%;
+    color: white;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.choiceCtn{
+    height: 55%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

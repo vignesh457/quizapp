@@ -1,0 +1,14 @@
+.ctn{
+    width: 60%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 15px;
+    width: 40%;
+    font-size: large;
+    background-color: #FFBA93;
+    border: 1px solid black;
+}
